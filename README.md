@@ -1,4 +1,4 @@
-# Pharmaceutical Supply Chain Insights : Data Analysis & Visualization
+# Credit Card Financial Dashboard Using Power BI
 
 ## Project Overview - 
 An interactive Power BI dashboard providing real-time insights into credit card transactions, customer spending behavior, and financial trends. This project helps businesses analyze revenue distribution, customer segments, and transaction patterns for data-driven decision-making.
